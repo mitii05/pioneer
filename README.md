@@ -15,7 +15,12 @@ Este projeto tem como objetivo implementar e comparar dois métodos distintos de
   - `numpy`
   - `math`
   - `csv`
- 
+
+## Como usar
+
+Para multiplos pontos usando waypoints - abrir o arquivo scenepaths.ttt no coppeliaSim e executar o script demopaths.py
+
+Para um único ponto usando primitivas de movimento - abrir o arquivo sceneprimitivas.ttt no coppeliaSim e executar o script demoprimitivas.py
 
 ###  demopaths
 
