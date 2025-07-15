@@ -22,7 +22,7 @@ Para multiplos pontos usando waypoints - abrir o arquivo scenepaths.ttt no coppe
 
 Para um único ponto usando primitivas de movimento - abrir o arquivo sceneprimitivas.ttt no coppeliaSim e executar o script demoprimitivas.py
 
-###  demopaths
+##  demopaths
 
 É possível editar a lista de *waypoints* no código:
 
@@ -64,7 +64,7 @@ if error_distance >= self.Min_error_distance:
 
 ---
 
-###  demoprimitivas
+##  demoprimitivas
 
 É possível editar os parâmetros no `main`:
 
